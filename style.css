@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #da9400;
+}
+
+body {
+    background-color: #6c0073;
+    color: white;
+    margin: 0 auto;
+}
+
+section h1 {
+    color: green;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.cardapio {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.chocolate img {
+    width: 300px;
+}
+
+.morango img {
+    width: 200px;
+}
+
+.sabores {
+    margin: 20px;
+    text-align: center;
+}
+
+.fitness {
+    width: 350px;
+}
+
+.ninho img {
+    width: 250px;
+}
+
+section iframe {
+    text-align: center;
+}
+
+section .localização {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.localização iframe {
+    width: 500px;
+    height: 300px;
+}
+
+.preços {
+    font-size: 22px;
+}
+
+.preços li {
+    display: inline;
+    margin: 80px;
+}
+
+#faça {
+    top: 30px;
+}
